@@ -1,0 +1,5 @@
+root	sppusppu	3	1 2 3 |
+aaaa	btegbteg	1	0 |
+user	vtfsvtfs	1	|
+exit	fyjufyju	1	0 |
+END

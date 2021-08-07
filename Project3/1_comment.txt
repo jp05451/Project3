@@ -1,0 +1,5 @@
+1	user	yes
+2	user	yes
+2	user	no
+0	root	not good
+2	root	bad
